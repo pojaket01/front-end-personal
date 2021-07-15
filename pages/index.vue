@@ -27,7 +27,7 @@
               rel="noopener noreferrer"
               title="chat"
             >
-              discord
+              discord 1234
             </a>.
           </p>
           <p>
